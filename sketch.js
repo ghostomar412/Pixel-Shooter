@@ -19,8 +19,7 @@ function preload(){
   astr1=loadImage("Images/astr1.png")
   astr2=loadImage("Images/astr2.png")
   over=loadImage("Images/gameOVER.jpg")
-  start=loadImage("Images/demo.PNG
-                  ")
+  start=loadImage("Images/demo.png")
   life=loadImage("Images/life.png")
   alienIMG=loadImage("Images/alien.png")
   spaceship=loadAnimation("Images/spaceship1.png","Images/spaceship2.png","Images/spaceship3.png","Images/spaceship4.png")
